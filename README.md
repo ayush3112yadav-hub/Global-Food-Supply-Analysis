@@ -1,4 +1,4 @@
-# Data Analyst Internship: Project FOODFLOW
+# Global Food Supply Analysis
 
 **Ayush Yadav** | Aspiring Data Analyst | Translating Complex Data into Actionable Business Insights
 

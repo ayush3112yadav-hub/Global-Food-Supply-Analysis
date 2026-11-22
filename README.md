@@ -43,7 +43,7 @@ A five-week, hands-on data analytics internship project built around **advanced 
 
 ## Repository structure
 ```
-Data-Analyst-Internship/
+Global-Food-Supply-Analysis/
 ├── README.md                                           ← you are here
 ├── Data-Analysis-Strategy-and-Planning/                ← Week 1
 ├── Data-Transformation-and-Pivot-Table-Analysis/       ← Week 2
